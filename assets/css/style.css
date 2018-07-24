@@ -1,0 +1,15 @@
+body {
+    background-image: url(../images/pattern-bg.png);
+}
+
+.navbar {
+    height: 60px;
+}
+
+.bio-photo {
+    width: 300px;
+}
+
+footer {
+    border-top: 5px solid #4aaaa5;
+}
